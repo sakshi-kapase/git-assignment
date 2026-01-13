@@ -1,1 +1,2 @@
 hello world, this is my code to create a conflict so that we can solve it.
+This is feature file.
